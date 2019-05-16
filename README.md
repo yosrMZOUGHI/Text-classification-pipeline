@@ -5,4 +5,4 @@ In the following notebook, we apply the steps required to create a text classifi
 Python3 , libraries such as: Sklearn, nltk and spacy.
 
 # Run
-The notebook contains all the classes and explain the purpose behind each step. 
+The notebook contains all the classes and explains the purpose behind each step. 
